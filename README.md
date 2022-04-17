@@ -1,12 +1,8 @@
 # Thay Silva
-#### FullStack Developer 👩‍💻
+#### FullStack Developer 👩‍💻 (she/her)
 
 ##
 
-###### - 🌱 I’m currently learning Nestjs
-###### - 👧🏽 Pronouns: she/her
-
-##
 
 <div lign="center">
   <a href="https://github.com/thayinaccio">
