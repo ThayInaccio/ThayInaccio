@@ -1,5 +1,5 @@
 # Thay Silva
-#### FullStack Developer 👩‍💻 (she/her)
+#### Tech Lead 👩‍💻 (she/her)
 
 ##
 
